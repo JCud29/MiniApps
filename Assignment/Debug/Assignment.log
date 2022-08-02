@@ -1,0 +1,4 @@
+﻿  mainSource.cpp
+C:\Users\James pc\Desktop\Assignment\Assignment\mainSource.cpp(234,34): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\James pc\Desktop\Assignment\Assignment\mainSource.cpp(252,6): warning C4101:  'hexDigit': unreferenced local variable
+  Assignment.vcxproj -> C:\Users\James pc\Desktop\Assignment\Debug\Assignment.exe
